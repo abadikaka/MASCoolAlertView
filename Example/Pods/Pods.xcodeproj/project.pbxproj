@@ -8,14 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		0CFFD74D21A871D97F62FED4B4A7F19D /* Pods-MASCoolAlertView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EA32D1BF2C90DD57E8EA072DBE7DDE94 /* Pods-MASCoolAlertView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1CAD4F265754714E54F826C880076BF2 /* MASCoolAlertView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E050C031C99A57C826F70FB16CF9D90 /* MASCoolAlertView-dummy.m */; };
 		37A3C869B2A1EE0E4DEFFBB0EA99EFC1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		3E37CC6C805A7A194E1B5BC31B900AC1 /* Pods-MASCoolAlertView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E6A41087A89BB57427F1E0097AB652F /* Pods-MASCoolAlertView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		42DA69CBA781C1563F2A465DAD074F18 /* Pods-MASCoolAlertView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 19368E3EAD7B2D9A422D055096E051AC /* Pods-MASCoolAlertView_Tests-dummy.m */; };
 		439AE2752D12EEAD926BDF03E45A60CC /* MASCoolAlertView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EC3BD643B2F9B996B67C153371F5493B /* MASCoolAlertView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		758420711005E9101F4D7B653B73B090 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D697156A728E584452932CB5C78C78 /* ReplaceMe.swift */; };
 		90FBAC8B67D8BC78391DE0B3F4FFED9D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		C991C3501CE5D8831E034A380E0F0CD7 /* MASCoolAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0367871B50F5C56E8F03232C26E7F5C3 /* MASCoolAlertView.swift */; };
 		D0098D55AF3C0CA569CB07EDBF88593A /* Pods-MASCoolAlertView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CA31BBA8955103220285A38E2853E1BE /* Pods-MASCoolAlertView_Example-dummy.m */; };
+		DF793BFFFC8D832C7A3E7BA1D3B320A8 /* MASCoolAlertView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E050C031C99A57C826F70FB16CF9D90 /* MASCoolAlertView-dummy.m */; };
 		E8C304EDBEBA17F2264F35A848713EC3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0367871B50F5C56E8F03232C26E7F5C3 /* MASCoolAlertView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = MASCoolAlertView.swift; sourceTree = "<group>"; };
 		17085D055469A22A31C8A35F6B743CE5 /* Pods-MASCoolAlertView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MASCoolAlertView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		19368E3EAD7B2D9A422D055096E051AC /* Pods-MASCoolAlertView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MASCoolAlertView_Tests-dummy.m"; sourceTree = "<group>"; };
 		1AB0C70EC9F13902747D6BA5D9FABE2B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -54,7 +55,6 @@
 		90BED6D375D6907D88E46FC94AE11CDF /* MASCoolAlertView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MASCoolAlertView.framework; path = MASCoolAlertView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		92F5E2FD9069527D73DF6111D5E56C51 /* Pods-MASCoolAlertView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MASCoolAlertView_Example-resources.sh"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		99D697156A728E584452932CB5C78C78 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		AF7C4EA424B4B6215DFA77F99D37A4AB /* Pods-MASCoolAlertView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MASCoolAlertView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		C8171BA15190DC85141F9E020BADFF97 /* Pods-MASCoolAlertView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MASCoolAlertView_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		CA31BBA8955103220285A38E2853E1BE /* Pods-MASCoolAlertView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MASCoolAlertView_Example-dummy.m"; sourceTree = "<group>"; };
@@ -120,15 +120,6 @@
 			path = "Target Support Files/Pods-MASCoolAlertView_Tests";
 			sourceTree = "<group>";
 		};
-		2A3CCCF34904588041969776C300AD62 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				99D697156A728E584452932CB5C78C78 /* ReplaceMe.swift */,
-			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
 		6CE7FD013E1C30D79E94216F7E0D828F /* Pods-MASCoolAlertView_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -161,7 +152,7 @@
 		A353C8CB5E7489C409EED02E53227FED /* MASCoolAlertView */ = {
 			isa = PBXGroup;
 			children = (
-				2A3CCCF34904588041969776C300AD62 /* Classes */,
+				FB4DCCC5E15C70F4DB3EE9659AA1E277 /* Classes */,
 			);
 			name = MASCoolAlertView;
 			path = MASCoolAlertView;
@@ -224,6 +215,15 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		FB4DCCC5E15C70F4DB3EE9659AA1E277 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				0367871B50F5C56E8F03232C26E7F5C3 /* MASCoolAlertView.swift */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -258,7 +258,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 482AC0604F8F5FAD863EC5261DBEF43F /* Build configuration list for PBXNativeTarget "MASCoolAlertView" */;
 			buildPhases = (
-				6F6BE6788C0C19CF2E6D09B3841D6436 /* Sources */,
+				265D24492C97B697A6C640C44F4C32E0 /* Sources */,
 				4B51CAFD8AEC6FB540351CEC3471D43D /* Frameworks */,
 				F0B4A046FEB1931863C8B33C2ACC4815 /* Headers */,
 			);
@@ -343,12 +343,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F6BE6788C0C19CF2E6D09B3841D6436 /* Sources */ = {
+		265D24492C97B697A6C640C44F4C32E0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1CAD4F265754714E54F826C880076BF2 /* MASCoolAlertView-dummy.m in Sources */,
-				758420711005E9101F4D7B653B73B090 /* ReplaceMe.swift in Sources */,
+				DF793BFFFC8D832C7A3E7BA1D3B320A8 /* MASCoolAlertView-dummy.m in Sources */,
+				C991C3501CE5D8831E034A380E0F0CD7 /* MASCoolAlertView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

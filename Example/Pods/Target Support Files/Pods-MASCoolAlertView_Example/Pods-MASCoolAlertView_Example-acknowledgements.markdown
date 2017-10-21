@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## MASCoolAlertView
 
-Copyright (c) 2017 abadikaka <abadi_kaka@yahoo.com>
+Copyright (c) 2017 abadikaka / Michael Abadi Santoso <abadi_kaka@yahoo.com, michael.abadi@ti.ukdw.ac.id>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

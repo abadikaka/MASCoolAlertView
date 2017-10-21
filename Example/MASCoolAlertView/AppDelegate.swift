@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MASCoolAlertView
 //
-//  Created by abadikaka on 10/22/2017.
-//  Copyright (c) 2017 abadikaka. All rights reserved.
+//  Created by Michael Abadi Santoso on 10/22/17.
+//  Copyright © 2017 michaelabadi.com. All rights reserved.
 //
 
 import UIKit

@@ -1,15 +1,16 @@
 {
   "name": "MASCoolAlertView",
   "version": "0.1.0",
-  "summary": "A short description of MASCoolAlertView.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Cool Alert View created by Michael Abadi Santoso.",
+  "description": "Example of Alert View with different animation and customizable properties. This alert view is called MASCoolAlertView created by Michael Abadi Santoso. People can use it for showing their alert view easily and customize the appearance of the alert view",
   "homepage": "https://github.com/abadikaka/MASCoolAlertView",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "abadikaka": "abadi_kaka@yahoo.com"
+    "abadikaka": "abadi_kaka@yahoo.com",
+    "Michael Abadi Santoso": "michael.abadi@ti.ukdw.ac.id"
   },
   "source": {
     "git": "https://github.com/abadikaka/MASCoolAlertView.git",
