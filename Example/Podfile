@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MASCoolAlertView_Example' do
+  pod 'MASCoolAlertView', :path => '../'
+
+  target 'MASCoolAlertView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
