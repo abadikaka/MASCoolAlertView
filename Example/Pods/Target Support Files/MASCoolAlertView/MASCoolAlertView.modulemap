@@ -1,0 +1,6 @@
+framework module MASCoolAlertView {
+  umbrella header "MASCoolAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MASCoolAlertView (0.1.0)
+
+DEPENDENCIES:
+  - MASCoolAlertView (from `../`)
+
+EXTERNAL SOURCES:
+  MASCoolAlertView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MASCoolAlertView: a643102ae8a38612cabd43629b46a007d417dc4b
+
+PODFILE CHECKSUM: 9b82d29dbd4a2f9e29ec6831e6e6d3ba335180d8
+
+COCOAPODS: 1.2.1

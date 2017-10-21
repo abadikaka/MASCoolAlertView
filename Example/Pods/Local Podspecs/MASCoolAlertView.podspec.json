@@ -1,0 +1,22 @@
+{
+  "name": "MASCoolAlertView",
+  "version": "0.1.0",
+  "summary": "A short description of MASCoolAlertView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/abadikaka/MASCoolAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "abadikaka": "abadi_kaka@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/abadikaka/MASCoolAlertView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MASCoolAlertView/Classes/**/*"
+}

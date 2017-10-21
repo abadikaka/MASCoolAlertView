@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MASCoolAlertView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MASCoolAlertView.'
+  s.summary          = 'Cool Alert View created by Michael Abadi Santoso.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,13 +18,13 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Example of Alert View with different animation and customizable properties. This alert view is called MASCoolAlertView created by Michael Abadi Santoso. People can use it for showing their alert view easily and customize the appearance of the alert view
                        DESC
 
   s.homepage         = 'https://github.com/abadikaka/MASCoolAlertView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'abadikaka' => 'abadi_kaka@yahoo.com' }
+  s.author           = { 'abadikaka' => 'abadi_kaka@yahoo.com', 'abadikaka' => 'michael.abadi@ti.ukdw.ac.id' }
   s.source           = { :git => 'https://github.com/abadikaka/MASCoolAlertView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

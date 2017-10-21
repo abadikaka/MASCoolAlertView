@@ -22,7 +22,7 @@ pod 'MASCoolAlertView'
 
 ## Author
 
-abadikaka, abadi_kaka@yahoo.com
+abadikaka, abadi_kaka@yahoo.com / michael.abadi@ti.ukdw.ac.id
 
 ## License
 
