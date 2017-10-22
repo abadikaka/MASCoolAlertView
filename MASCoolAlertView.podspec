@@ -22,7 +22,7 @@ Example of Alert View with different animation and customizable properties. This
                        DESC
 
   s.homepage         = 'https://github.com/abadikaka/MASCoolAlertView'
-  s.screenshots      = 'https://imgur.com/pW3SAk1', 'https://imgur.com/OTf8k64'
+  s.screenshots      = 'https://imgur.com/pW3SAk1.jpg', 'https://imgur.com/OTf8k64.jpg'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'abadikaka' => 'abadi_kaka@yahoo.com', 'Michael Abadi Santoso' => 'michael.abadi@ti.ukdw.ac.id' }
   s.source           = { :git => 'https://github.com/abadikaka/MASCoolAlertView.git', :tag => s.version.to_s }
