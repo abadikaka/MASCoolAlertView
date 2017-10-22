@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         self.view.addSubview(newAlert!)
         
         // set the title bar
-        self.newAlert!.setTitleBar(height: 50, backgroundColor: .green, titleColor: .blue, titleText: "Title")
+        self.newAlert!.setTitleBar(height: 50, backgroundColor: .green, titleColor: .blue, titleText: "Title Text")
         
         // set the title bar border
         self.newAlert!.setTitleBarBorder(borderWidth: 1, borderColor: .red)
@@ -51,7 +51,7 @@ class ViewController: UIViewController {
         newView.backgroundColor = .blue
         
         // set the body content either using bodyText -- default -- or using custom body above
-        self.newAlert!.setBodyContent(bodyBackgroundColor: .magenta, bodyTextColor: .black, bodyText: "Hello This is Text Field", bodyView: newView)
+        self.newAlert!.setBodyContent(bodyBackgroundColor: .clear, bodyTextColor: .black, bodyText: "Hello This is Text Field", bodyView: nil)
         
         // show the alert with duration delay and options effect
         self.newAlert!.show(duration: 0.5, delay: 0.0, options: .curveEaseIn)

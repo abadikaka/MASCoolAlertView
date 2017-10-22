@@ -36,25 +36,25 @@
 		1AB0C70EC9F13902747D6BA5D9FABE2B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E6A41087A89BB57427F1E0097AB652F /* Pods-MASCoolAlertView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MASCoolAlertView_Example-umbrella.h"; sourceTree = "<group>"; };
 		2EEDDDAD4B3E0D381DA823BB67E7A634 /* Pods-MASCoolAlertView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MASCoolAlertView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		3236885083637AAB9E3075E9CDBBEEE8 /* Pods-MASCoolAlertView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-MASCoolAlertView_Example.modulemap"; sourceTree = "<group>"; };
+		3236885083637AAB9E3075E9CDBBEEE8 /* Pods-MASCoolAlertView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-MASCoolAlertView_Example.modulemap"; sourceTree = "<group>"; };
 		3E050C031C99A57C826F70FB16CF9D90 /* MASCoolAlertView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MASCoolAlertView-dummy.m"; sourceTree = "<group>"; };
-		47F88146DF2CB1D1DF6F6B7EAEB4E365 /* Pods-MASCoolAlertView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-MASCoolAlertView_Tests.modulemap"; sourceTree = "<group>"; };
-		51DB2E216FD3622F3FE95AC60C579BDC /* Pods_MASCoolAlertView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MASCoolAlertView_Tests.framework; path = "Pods-MASCoolAlertView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		47F88146DF2CB1D1DF6F6B7EAEB4E365 /* Pods-MASCoolAlertView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-MASCoolAlertView_Tests.modulemap"; sourceTree = "<group>"; };
+		51DB2E216FD3622F3FE95AC60C579BDC /* Pods_MASCoolAlertView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MASCoolAlertView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		531205544BF0B84050455310F97DE0EA /* Pods-MASCoolAlertView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MASCoolAlertView_Tests-resources.sh"; sourceTree = "<group>"; };
 		58181A77E9AB36333B6ABA6A9234932A /* Pods-MASCoolAlertView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MASCoolAlertView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		624C7C5FE5A22DD9C3E105056605294F /* Pods-MASCoolAlertView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MASCoolAlertView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		676A721E40301AB24A48BE94D1CFBAFC /* Pods_MASCoolAlertView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MASCoolAlertView_Example.framework; path = "Pods-MASCoolAlertView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		676A721E40301AB24A48BE94D1CFBAFC /* Pods_MASCoolAlertView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MASCoolAlertView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		741B1D79BA7A8A58D38768A329B42F69 /* MASCoolAlertView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MASCoolAlertView-prefix.pch"; sourceTree = "<group>"; };
 		7485914E6EB45A48336E2FB0F171EDED /* MASCoolAlertView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MASCoolAlertView.xcconfig; sourceTree = "<group>"; };
-		7B0A50223C954319D0667333CDEDAD6B /* MASCoolAlertView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = MASCoolAlertView.modulemap; sourceTree = "<group>"; };
+		7B0A50223C954319D0667333CDEDAD6B /* MASCoolAlertView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MASCoolAlertView.modulemap; sourceTree = "<group>"; };
 		7C3EA4EEFCB9FBBE247687C7A9683E31 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7CC79EF5B11D51D340D384FEADC6FC69 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84549C93FA59B8D402A150916C0638D6 /* Pods-MASCoolAlertView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MASCoolAlertView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		8B6C422D78E543E7BB4BA681DEFF6790 /* Pods-MASCoolAlertView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MASCoolAlertView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		90BED6D375D6907D88E46FC94AE11CDF /* MASCoolAlertView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MASCoolAlertView.framework; path = MASCoolAlertView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		90BED6D375D6907D88E46FC94AE11CDF /* MASCoolAlertView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MASCoolAlertView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		92F5E2FD9069527D73DF6111D5E56C51 /* Pods-MASCoolAlertView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MASCoolAlertView_Example-resources.sh"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AF7C4EA424B4B6215DFA77F99D37A4AB /* Pods-MASCoolAlertView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MASCoolAlertView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		C8171BA15190DC85141F9E020BADFF97 /* Pods-MASCoolAlertView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MASCoolAlertView_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		CA31BBA8955103220285A38E2853E1BE /* Pods-MASCoolAlertView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MASCoolAlertView_Example-dummy.m"; sourceTree = "<group>"; };
@@ -154,7 +154,6 @@
 			children = (
 				FB4DCCC5E15C70F4DB3EE9659AA1E277 /* Classes */,
 			);
-			name = MASCoolAlertView;
 			path = MASCoolAlertView;
 			sourceTree = "<group>";
 		};
@@ -220,7 +219,6 @@
 			children = (
 				0367871B50F5C56E8F03232C26E7F5C3 /* MASCoolAlertView.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -314,6 +312,11 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 0700;
+				TargetAttributes = {
+					3B85A26A885452413590327AF0F0FEBC = {
+						LastSwiftMigration = "";
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -403,7 +406,8 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -522,7 +526,8 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";

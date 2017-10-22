@@ -5,11 +5,73 @@
 [![License](https://img.shields.io/cocoapods/l/MASCoolAlertView.svg?style=flat)](http://cocoapods.org/pods/MASCoolAlertView)
 [![Platform](https://img.shields.io/cocoapods/p/MASCoolAlertView.svg?style=flat)](http://cocoapods.org/pods/MASCoolAlertView)
 
+## Description
+A simple and customizable Alert View and easy to use.
+What does it offer ?
+
+* custom title bar
+* custom footer button
+* custom view body
+* custom close button
+
+![Alt text](https://imgur.com/pW3SAk1 "Custom Body")
+![Alt text](https://imgur.com/OTf8k64 "Default Body")
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+## How to use
+
+Initialize the MASCoolAlertView
+```
+self.newAlert = MASCoolAlertView(height: 200, width: 200, cornerRadius: 10, backgroundColor: .yellow)
+```
+add to the subview
+```
+self.view.addSubview(newAlert!)
+```
+
+set the title bar
+```
+self.newAlert!.setTitleBar(height: 50, backgroundColor: .green, titleColor: .blue, titleText: "Title Text")
+```
+
+set the title bar border
+```
+self.newAlert!.setTitleBarBorder(borderWidth: 1, borderColor: .red)
+```
+
+create the close button
+```
+self.newAlert!.createCloseButton(tintColor: .red, imageNamed: "close-circular.png", buttonSize: 24)
+```
+
+set the footer button
+```
+self.newAlert!.setFooterButton(buttonText: "Close", buttonColor: .black, buttonTextColor: .red, height: 50)
+```
+
+set the custom footer button handler
+```
+self.newAlert!.handleBottomButton = handleButton
+```
+
+set the body view using custom body
+```
+let newView = UIView(frame: CGRect(x: 10, y: self.newAlert!.topView!.bounds.maxY + 10, width: self.newAlert!.bounds.height - 20, height: self.newAlert!.bounds.height/3))
+newView.backgroundColor = .blue
+```
+
+set the body content either using bodyText -- default -- or using custom body above
+```
+self.newAlert!.setBodyContent(bodyBackgroundColor: .clear, bodyTextColor: .black, bodyText: "Hello This is Text Field", bodyView: nil)
+```
+
+show the alert with duration delay and options effect (curveEaseIn, curveEaseOut, curveEaseInOut, specialCurve)
+```
+self.newAlert!.show(duration: 0.5, delay: 0.0, options: .curveEaseIn)
+```
 
 ## Installation
 
