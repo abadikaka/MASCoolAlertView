@@ -15,7 +15,7 @@ What does it offer ?
 * custom close button
 
 ![Imgur Image](https://imgur.com/pW3SAk1.jpg)
-![Alt text](https://imgur.com/OTf8k64 "Default Body")
+![Imgur Image](https://imgur.com/OTf8k64.jpg)
 
 ## Example
 
