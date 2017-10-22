@@ -14,7 +14,7 @@ What does it offer ?
 * custom view body
 * custom close button
 
-![Alt text](https://imgur.com/pW3SAk1 "Custom Body")
+![Imgur Image](https://imgur.com/pW3SAk1.jpg)
 ![Alt text](https://imgur.com/OTf8k64 "Default Body")
 
 ## Example
