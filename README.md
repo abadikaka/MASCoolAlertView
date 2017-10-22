@@ -15,7 +15,9 @@ What does it offer ?
 * custom close button
 
 ![Imgur Image](https://imgur.com/pW3SAk1.jpg)
-![Imgur Image](https://imgur.com/OTf8k64.jpg)
+<img src="https://camo.githubusercontent.com/e34485fafb009b6ae7903ed1f643a7db1a260f0d/68747470733a2f2f696d6775722e636f6d2f4f5466386b36342e6a7067" data-canonical-src="https://imgur.com/pW3SAk1.jpg" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/bad8b589132f39f0e76b7e63f23a5ea67747611d/68747470733a2f2f696d6775722e636f6d2f70573353416b312e6a7067" data-canonical-src="https://imgur.com/OTf8k64.jpg" width="200" height="400" />
+![Imgur Image](https://imgur.com/OTf8k64.jpg | width=50 )
 
 ## Example
 
